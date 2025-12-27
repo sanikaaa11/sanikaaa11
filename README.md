@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 💫 About Me: 
+Hi, I’m Sanika 👋  
+A Computer Engineering student who enjoys building real-world Android and software applications.
+
 🔭 I’m currently working on • Android applications focused on eCommerce and booking workflows  <br>• Improving Firebase-based backend integration and app scalability  <br>• Personal projects to strengthen full-stack and automation skills<br><br>👯 I’m looking to collaborate on • Android applications focused on eCommerce and booking workflows  <br>• Improving Firebase-based backend integration and app scalability  <br>• Personal projects to strengthen full-stack and automation skills<br><br>🤝 I’m looking for help with • Writing clean, scalable Android architecture  <br>• Improving system design and backend integration skills  <br>• Best practices for production-ready mobile apps<br><br>🌱 I’m currently learning • Advanced Android development patterns  <br>• Backend APIs and database design  <br>• Python-based automation and AI-powered workflows<br><br>💬 Ask me about • Android development (Java, XML, Firebase)  <br>• Building end-to-end mobile applications  <br>• Student projects, internships, and learning strategies<br><br>⚡ Fun fact I learn best by building projects first and figuring things out along the way 🚀<br>
 
 
