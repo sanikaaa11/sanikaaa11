@@ -1,6 +1,6 @@
 # hieeee, i'm sanika 👾
 
-> *flutter dev by day. android dev also by day. apparently i don't sleep.*
+> *android dev by day and flutter dev by night. apparently i don't sleep.*
 
 I build apps that people actually use — not just portfolio projects that live on github and nowhere else.
 Currently in my final year of engineering and shipping real things to real clients. Wild concept, I know.
