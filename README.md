@@ -1,9 +1,15 @@
-# hieeee, i'm sanika 👾
+# hieee, i'm sanika 👋
 
-> *android dev by day and flutter dev by night. apparently i don't sleep.*
+**Software Developer | Final-year Computer Engineering student**
 
-I build apps that people actually use — not just portfolio projects that live on github and nowhere else.
-Currently in my final year of engineering and shipping real things to real clients. Wild concept, I know.
+*android dev by day and flutter dev by night.*
+
+I build apps that people actually use, not just portfolio projects that live on github and nowhere else.
+Currently in my final year of engineering and shipping real things to real clients
+
+
+🟢 **Open to SDE / QA-SDET roles** — actively interviewing
+📍 Pune, India
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saaanika_04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanika-lamkhade-71684b2b4)
@@ -11,82 +17,67 @@ Currently in my final year of engineering and shipping real things to real clien
 
 ---
 
-## 🔭 currently working on
+## 🚀 what i've shipped
 
-**TrackIt** — a Flutter app that manages your tasks, notes, journal, expenses, and habits in one dark-mode aesthetic experience. Also has Gemini AI baked in because why not let the robot judge your spending habits too.
+| Project | What it is | Impact / Scale | Stack |
+|---|---|---|---|
+| **[WashTrack](https://github.com/sanikaaa11/WashTrack)** | Android business-management app for a vehicle wash client | Live in production, used daily, logging 100–300 real transactions/month | Java · Firebase Realtime DB · MVVM · Material Design 3 |
+| **[TrackIt 2.0](#)** | 5-module offline-first productivity app (tasks, notes, journal, expenses, habits) with AI insights in every module | 22 screens, full gamification (badges/streaks), Play Store-bound | Flutter · Firebase · Riverpod · Gemini API · Hive |
+| **[InboxGenie](https://github.com/sanikaaa11/InboxGenie)** | Multi-agent AI system that reads, categorizes, drafts, and schedules from Gmail autonomously | 5-agent architecture, 50+ email scenarios validated, 20+ drafts generated with zero duplicates | Python · Gemini 2.0 Flash · Gmail API · Calendar API · OAuth 2.0 |
+| **[AgroChain](#)** | AI-driven agri-tech marketplace connecting farmers, machinery owners, and waste/fertilizer buyers | 7 major modules, AI crop/fertilizer recommendation engine, role-based access | Flutter · Firebase · Gemini API |
+| **ProjectShield** *(in progress)* | Role-based-access-control REST API — closing the backend/Spring Boot gap in my stack | Spring Boot · Java · SQL | 
+
+---
+
+## 🔭 currently building
+
+**TrackIt 2.0** — rebuilding my productivity app around a real PRD: 5 modules, Gemini-powered insights in each (AI task prioritization, weekly mood summaries, spend-reduction tips, habit pattern analysis), offline-first with Firebase sync, and a full badge/streak gamification layer. Shipping to Play Store within a 3–4 week cycle.
+
+**ProjectShield** — a Spring Boot API implementing role-based access control, built specifically to round out my backend fundamentals for SDE interviews.
 
 ---
 
 ## 🌱 currently learning
 
-- Making Riverpod do exactly what I want *(an ongoing battle)*
-- Gemini API prompt engineering that doesn't sound like it was written by a robot
-- The art of not adding "just one more feature" before shipping
-
----
-
-## 👯 looking to collaborate on
-
-Flutter or Android projects that are actually going somewhere — productivity tools, utility apps, anything with a real user on the other end. Bonus points if it involves Firebase or AI integrations.
-
----
-
-## 🤝 looking for help with
-
-Figuring out iOS. Not urgently. But eventually. Someday. *(Budget reasons.)*
+- Core Java, DSA, and backend fundamentals (Spring Boot, SQL) for SDE interviews
+- Prompt design for Gemini integrations that hold up on real, messy inputs — not demo data
+- Riverpod state architecture that scales past 20+ screens without turning into spaghetti
 
 ---
 
 ## 💬 ask me about
 
-- Building Android apps in Java that don't fall apart
-- Flutter architecture that actually scales *(Riverpod + clean feature folders ftw)*
-- Gemini API integrations for things that aren't just chatbots
-- How I built and deployed a solo app for a paying client while still in college 🫡
+- Shipping a solo Android app to a real paying client — deployment, device fragmentation bugs (Realme vs Redmi rendering differences), and handling live feature-change requests
+- Multi-agent AI system design — breaking a workflow into specialized agents (InboxGenie's Reader/Decision/Categorizer/Reply/Task pipeline)
+- Flutter architecture that scales: Riverpod + clean feature folders + offline-first sync
+- AI feature integration that's more than a chatbot wrapper — structured JSON outputs, deduplication logic, safe-execution guards
 
 ---
 
-## ⚡ fun fact
-
-I built **WashTrack** — a business management app for a vehicle wash business — solo, deployed it, and it's actively used daily to log 100–300 entries a month by a real paying client. My code is somewhere out there doing real work right now. That's kinda wild to think about.
-
----
-
-## 🛠️ what i work with
+## 🛠️ tech stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ```
-Languages    →  Java · Dart · Python
-Mobile       →  Android Studio · Flutter
-Backend      →  Firebase (Auth + Firestore + Storage + Realtime DB)
+Languages    →  Java · Python · Dart
+Backend      →  Spring Boot (in progress) · Firebase (Auth, Firestore, Storage, Realtime DB, FCM)
+Mobile       →  Flutter · Android Studio
 State        →  Riverpod · MVVM
-AI           →  Gemini API · multi-agent pipelines
-APIs         →  Gmail API · Google Calendar API
+AI           →  Gemini API · multi-agent orchestration · structured JSON outputs
+APIs         →  Gmail API · Google Calendar API · OAuth 2.0
 Tools        →  Git · GitHub · Hive · GoRouter
 ```
 
 ---
 
-## 🚀 things i've shipped
-
-| Project | What it is | Stack |
-|---|---|---|
-| **TrackIt** | 5-module personal productivity app, 22 screens, offline-first | Flutter · Firebase · Riverpod · Gemini |
-| **WashTrack** | Business management app for a vehicle wash client, live & in daily use | Java · Firebase |
-| **InboxGenie** | Multi-agent email pipeline — auto categorises, drafts replies, books calendar slots | Python · Gemini · Gmail API |
-| **AgroChain** | Agri-tech marketplace with a role-based AI chatbot I built solo | Android · Firebase |
-
----
-
-## 📜 certified in things
+## 📜 certifications
 
 - 🤖 **5-Day AI Agents Intensive** — Kaggle × Google *(Dec 2025)*
 - 💼 **Deloitte Australia Technology Job Simulation** *(Aug 2025)*
@@ -103,5 +94,4 @@ Tools        →  Git · GitHub · Hive · GoRouter
 
 ---
 
-
-*Solo app developer. Currently caffeinated.*
+*Shipping real products, one client bug report at a time.*
